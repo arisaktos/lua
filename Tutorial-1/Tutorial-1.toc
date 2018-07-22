@@ -1,0 +1,9 @@
+## Interface: 80000
+## Title: Tutorial-1
+## Author: Sairy / Arisu
+## Version: 0.8
+## Notes: First try on making a wow addon
+## eMail: arisusaktos@gmail.com
+## DefaultState: enabled
+
+Tutorial-1.lua
