@@ -1,0 +1,6 @@
+## Interface: 80000
+## Title: Tutorial-2
+## Author: Sairy / Arisu
+## DefaultState: enables
+
+Tutorial-2.lua
