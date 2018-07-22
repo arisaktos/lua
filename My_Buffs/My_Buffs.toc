@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: |cff00ccffMy|r Buffs
+## Author: Sairy / Arisu
+## DefaultState: enabled
+## SavedVariables: My_Buffs
+
+Templates.xml
+Core.lua
