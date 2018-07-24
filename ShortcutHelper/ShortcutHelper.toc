@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: ShortcutHelper
+## Author: Sairy (Arisu)
+## Version: 1.0 release
+## DefaultState: enabled
+
+
+Core.lua
